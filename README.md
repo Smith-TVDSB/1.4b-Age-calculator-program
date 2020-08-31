@@ -10,7 +10,7 @@
 8. How many years they have until they are a multiple of ten (i.e 23 is 7, 18 is 2, 30 is 0)
 
 ### A sample input screen is:
-Input your year of birth:
+Input your year of birth: /n
 (user enters their year of birth)
 
 ### Sample Output Screen:
