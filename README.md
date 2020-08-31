@@ -9,15 +9,15 @@
 7. How many years they have beyond a multiple of ten (i.e. 23 is 3, 17 is 7, 34 is 4)
 8. How many years they have until they are a multiple of ten (i.e 23 is 7, 18 is 2, 30 is 0)
 
-### A sample input screen is:
-Input your year of birth: \n
-(user enters their year of birth)
+### A sample input screen is:  
+Input your year of birth:  
+(user enters their year of birth)  
 
-### Sample Output Screen:
-Year entered:                 1993
-Age:                          27
-Age in 5 years:               32
-Double age:                   54
-Half age:                     13.5
-Years above a mult. of 10:    7
-Years until a mult. of 10:    3
+### Sample Output Screen:  
+Year entered:                 1993  
+Age:                          27  
+Age in 5 years:               32  
+Double age:                   54  
+Half age:                     13.5  
+Years above a mult. of 10:    7  
+Years until a mult. of 10:    3  
